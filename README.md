@@ -18,8 +18,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Objectives</h2>
 
 - Add roles,departments and teams for agents to exist in.
-- Allow registered users to create tickets.
 - Add agents(workers) and users(clients) to the database.
+- Allow registered users to create tickets.
 - Configure SLA.
 - Add additional Help Topics for tickets.
 
